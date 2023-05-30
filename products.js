@@ -1,4 +1,6 @@
 const fs = require('fs');
+const productsData = fs.readFileSync('products.json', 'utf8');
+const products = JSON.parse(productsData);
 
 class ProductManager {
     constructor() {

@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1",
+      "title": "primerob",
+      "description": "descript",
+      "price": 200,
+      "code": "abc123",
+      "stock": 25
+    },
+    {
+      "id": "2",
+      "title": "segundoob",
+      "description": "descript2",
+      "price": 220,
+      "code": "123bca",
+      "stock": 23
+    },
+    {
+      "id": "3",
+      "title": "tercerob",
+      "description": "descript3",
+      "price": 230,
+      "code": "312abc",
+      "stock": 22
+    },
+    {
+      "id": "4",
+      "title": "cuartoob",
+      "description": "descript4",
+      "price": 230,
+      "code": "312abc",
+      "stock": 22
+    },
+    {
+      "id": "5",
+      "title": "quintoob",
+      "description": "descript5",
+      "price": 230,
+      "code": "312abc",
+      "stock": 22
+    },
+    {
+      "id": "6",
+      "title": "sextoob",
+      "description": "descript6",
+      "price": 230,
+      "code": "312abc",
+      "stock": 22
+    },
+    {
+      "id": "7",
+      "title": "septimoob",
+      "description": "descript7",
+      "price": 230,
+      "code": "312abc",
+      "stock": 22
+    },
+    {
+      "id": "8",
+      "title": "octavoob",
+      "description": "descript8",
+      "price": 230,
+      "code": "312abc",
+      "stock": 22
+    },
+    {
+      "id": "9",
+      "title": "novenoob",
+      "description": "descript9",
+      "price": 230,
+      "code": "312abc",
+      "stock": 22
+    },
+    {
+      "id": "10",
+      "title": "decimoob",
+      "description": "descript10",
+      "price": 230,
+      "code": "312abc",
+      "stock": 22
+    }
+  ]
